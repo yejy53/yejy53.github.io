@@ -26,9 +26,10 @@ My research goal is to conduct influential scientific research in **Computer Vis
 <a href='https://scholar.google.com/citations?user=6IbGkd4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
+- *2025.12*: &nbsp;🔥 Released: [**RealGen: Photorealistic Text-to-Image Generation via Detector-Guided Rewards**.](https://github.com/yejy53/RealGen)
+- *2025.12*: &nbsp;🔥 Released: [**Echo-4o: Harnessing the Power of GPT-4o Synthetic Images for Improved Image Generation**](https://github.com/yejy53/Echo-4o).
 - *2025.06*: &nbsp;🎉 Two papers accepted by **NIPS 2025**: [FakeVLM](https://github.com/opendatalab/FakeVLM) and [BLINK-Twice](https://arxiv.org/abs/2510.09361)!
 - *2025.06*: &nbsp;🎉 Three papers accepted by **ICCV 2025**: [Skydiffuion](https://opendatalab.github.io/skydiffusion/), [Where am I (CVG-Text)](https://yejy53.github.io/CVG-Text/) and [LEGION](https://opendatalab.github.io/LEGION/)!
-- *2025.04*: &nbsp;🔥 Released **GPT-ImgEval**, a comprehensive benchmark for diagnosing GPT-4o in image generation.
 - *2025.02*: &nbsp;🎉 [LOKI](https://opendatalab.github.io/LOKI/) was accepted by **ICLR 2025** as a **Spotlight**!
 - *2024.07*: &nbsp;📜 [EP-BEV](https://github.com/yejy53/EP-BEV) was accepted by **ECCV 2024**!  [SG-BEV](https://github.com/yejy53/SG-BEV) was accepted by **CVPR 2024** and selected as a **Highlight Poster**!
 
