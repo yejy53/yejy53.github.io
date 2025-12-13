@@ -1,5 +1,31 @@
 # 📝 Publications
 
+<style>
+.conference-tag {
+    background-color: #f1a340; /* 红色背景，适合顶会 */
+    color: white;              /* 白色文字 */
+    padding: 2px 6px;          /* 内边距 */
+    border-radius: 4px;        /* 圆角 */
+    font-size: 0.8em;          /* 字体稍微小一点 */
+    font-weight: bold;         /* 加粗 */
+    margin-right: 5px;         /* 和后面标题的间距 */
+    display: inline-block;     /* 保持在一行 */
+    vertical-align: middle;
+}
+
+.preprint-tag {
+    background-color: #1e81b0; /* 灰色背景，适合Arxiv/Under Review */
+    color: white;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 0.8em;
+    font-weight: bold;
+    margin-right: 5px;
+    display: inline-block;
+    vertical-align: middle;
+}
+</style>
+
 ## Multimodal AIGC: Image Synthesis and Visual Forensics
 
 - <span class="conference-tag">NeurIPS 2025</span> [Spot the Fake: Large Multimodal Model-Based Synthetic Image Detection with Artifact Explanation](https://arxiv.org/abs/2503.14905)<br>
