@@ -77,7 +77,6 @@
   align-content: flex-start;
   align-items: center;
 }
-
 .author__avatar {
   display: table-cell;
   vertical-align: top;
@@ -94,7 +93,10 @@
   img {
     max-width: 175px;
     min-width: 75px;
-    border-radius: 50%;
+    
+    /* ------------- 修改这里 ------------- */
+    border-radius: 15px; /* 15px 是圆角方形，如果想要直角方形改成 0px */
+    /* ---------------------------------- */
 
     @include breakpoint($large) {
       padding: 5px;
