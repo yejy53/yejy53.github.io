@@ -36,7 +36,7 @@ My current research focuses on image generation and multimodal large models. My 
 
 # 💻 Open Source Projects
 
-- <span class="conference-tag" style="background-color: #e05d44">🔥 18k+ Stars</span> [Awesome-Nano-Banana-images: A Curated Collection of Generative AI Visuals](https://github.com/PicoTrex/Awesome-Nano-Banana-images)<br>
+- <span class="conference-tag" style="background-color: #2a9d8f">Project</span> [Awesome-Nano-Banana-images: A Curated Collection of Generative AI Visuals](https://github.com/PicoTrex/Awesome-Nano-Banana-images)<br> 🔥 18k+ Stars
 Zilong Huang, **Junyan Ye**, Jun He.
 
 - <span class="conference-tag" style="background-color: #2a9d8f">Project</span> [GPT-ImgEval: The first Comprehensive Benchmark for Diagnosing GPT4o in Image Generation](https://github.com/PicoTrex/GPT-ImgEval)<br>
