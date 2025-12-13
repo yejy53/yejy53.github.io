@@ -34,7 +34,7 @@ My research goal is to conduct influential scientific research in **Computer Vis
 - *2024.07*: &nbsp;📜 [EP-BEV](https://github.com/yejy53/EP-BEV) (Cross-view retrieval) was accepted by **ECCV 2024**!
 - *2024.04*: &nbsp;🎉 [SG-BEV](https://github.com/yejy53/SG-BEV) (Cross-view segmentation) was accepted by **CVPR 2024** and selected as a **Highlight Poster**!
 
-
+{% include_relative includes/pub.md %}
 
 # 🎖 Honors and Awards
 - *2024*, **National Scholarship** (Top 0.2%)
