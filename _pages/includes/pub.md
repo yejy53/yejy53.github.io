@@ -2,7 +2,7 @@
 
 <style>
 .conference-tag {
-    background-color: #f1a340; /* 红色背景，适合顶会 */
+    background-color: #1e81b0; /* 红色背景，适合顶会 */
     color: white;              /* 白色文字 */
     padding: 2px 6px;          /* 内边距 */
     border-radius: 4px;        /* 圆角 */
@@ -14,7 +14,7 @@
 }
 
 .preprint-tag {
-    background-color: #1e81b0; /* 灰色背景，适合Arxiv/Under Review */
+    background-color: #f1a340; /* 灰色背景，适合Arxiv/Under Review */
     color: white;
     padding: 2px 6px;
     border-radius: 4px;
