@@ -34,20 +34,25 @@ My current research focuses on image generation and multimodal large models. My 
 
 {% include_relative includes/pub.md %}
 
+<style>
+/* 确保之前定义的样式还在，如果没有请加上 */
+.conference-tag { background-color: #1e81b0; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.8em; font-weight: bold; margin-right: 5px; display: inline-block; vertical-align: middle; }
+img.github-badge { vertical-align: middle; margin-left: 5px; }
+</style>
+
 # 💻 Open Source Projects
 
-- <span class="conference-tag" style="background-color: #2a9d8f">Project</span> [Awesome-Nano-Banana-images: A Curated Collection of Generative AI Visuals](https://github.com/PicoTrex/Awesome-Nano-Banana-images)<br> 🔥 18k+ Stars
+- <span class="conference-tag" style="background-color: #2a9d8f">Project</span> [Awesome-Nano-Banana-images: A Curated Collection of Generative AI Visuals](https://github.com/PicoTrex/Awesome-Nano-Banana-images) <a href="https://github.com/PicoTrex/Awesome-Nano-Banana-images"><img class="github-badge" src="https://img.shields.io/github/stars/PicoTrex/Awesome-Nano-Banana-images?style=social&label=Stars"></a><br>
 Zilong Huang, **Junyan Ye**, Jun He.
 
-- <span class="conference-tag" style="background-color: #2a9d8f">Project</span> [GPT-ImgEval: The first Comprehensive Benchmark for Diagnosing GPT4o in Image Generation](https://github.com/PicoTrex/GPT-ImgEval)<br>
-Zhiyuan Yan\*, **Junyan Ye\***, Weijia Li, Zilong Huang, Shenghai Yuan, Xiangyang He, Kaiqing Lin, Jun He, Conghui He, Li Yuan.  
-[[Arxiv](https://arxiv.org/abs/2504.02782)] [[Github](https://github.com/PicoTrex/GPT-ImgEval)]
+- <span class="conference-tag" style="background-color: #2a9d8f">Project</span> [GPT-ImgEval: The first Comprehensive Benchmark for Diagnosing GPT4o in Image Generation](https://arxiv.org/abs/2504.02782) <a href="https://github.com/PicoTrex/GPT-ImgEval"><img class="github-badge" src="https://img.shields.io/github/stars/PicoTrex/GPT-ImgEval?style=social&label=Stars"></a><br>
+Zhiyuan Yan\*, **Junyan Ye\***, Weijia Li, Zilong Huang, Shenghai Yuan, Xiangyang He, Kaiqing Lin, Jun He, Conghui He, Li Yuan.
 
 # 🎖 Honors and Awards
-- *2024*, **National Scholarship** (Top 0.2%)
-- *2024*, **Guo Xie Birong Scholarship** (Top 0.5%)
-- *2024*, **Outstanding Undergraduate Thesis** (Ranked 1/62)
-- *2023*, **National Scholarship**
+- *2024-2025*, **National Scholarship** 
+- *2024-2025*, **SYSU Guo Xie Birong Scholarship** 
+- *2024-06*, **Outstanding Undergraduate Thesis** 
+- *2023-2024*, **National Scholarship**
 
 # 📖 Education
 - *2024.09 - Present*, Master Student, Sun Yat-sen University (SYSU).
