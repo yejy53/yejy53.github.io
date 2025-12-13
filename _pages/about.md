@@ -26,13 +26,11 @@ My research goal is to conduct influential scientific research in **Computer Vis
 <a href='https://scholar.google.com/citations?user=6IbGkd4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 Two papers accepted by **NIPS 2025**: [FakeVLM](https://github.com/opendatalab/FakeVLM) and BLINK-Twice!
-- *2025.06*: &nbsp;🎉🎉 Three papers accepted by **ICCV 2025**: [Skydiffuion](https://opendatalab.github.io/skydiffusion/), [Where am I (CVG-Text)](https://yejy53.github.io/CVG-Text/) and [LEGION](https://opendatalab.github.io/LEGION/)!
+- *2025.06*: &nbsp;🎉 Two papers accepted by **NIPS 2025**: [FakeVLM](https://github.com/opendatalab/FakeVLM) and [BLINK-Twice](https://arxiv.org/abs/2510.09361)!
+- *2025.06*: &nbsp;🎉 Three papers accepted by **ICCV 2025**: [Skydiffuion](https://opendatalab.github.io/skydiffusion/), [Where am I (CVG-Text)](https://yejy53.github.io/CVG-Text/) and [LEGION](https://opendatalab.github.io/LEGION/)!
 - *2025.04*: &nbsp;🔥 Released **GPT-ImgEval**, a comprehensive benchmark for diagnosing GPT-4o in image generation.
 - *2025.02*: &nbsp;🎉 [LOKI](https://opendatalab.github.io/LOKI/) was accepted by **ICLR 2025** as a **Spotlight**!
-- *2024.12*: &nbsp;✨ [UrBench](https://opendatalab.github.io/UrBench/) was accepted by **AAAI 2025**!
-- *2024.07*: &nbsp;📜 [EP-BEV](https://github.com/yejy53/EP-BEV) (Cross-view retrieval) was accepted by **ECCV 2024**!
-- *2024.04*: &nbsp;🎉 [SG-BEV](https://github.com/yejy53/SG-BEV) (Cross-view segmentation) was accepted by **CVPR 2024** and selected as a **Highlight Poster**!
+- *2024.07*: &nbsp;📜 [EP-BEV](https://github.com/yejy53/EP-BEV) was accepted by **ECCV 2024**!  [SG-BEV](https://github.com/yejy53/SG-BEV) was accepted by **CVPR 2024** and selected as a **Highlight Poster**!
 
 {% include_relative includes/pub.md %}
 
