@@ -44,7 +44,7 @@ Siwei Wen\*, **Junyan Ye\***, Peilin Feng, Hengrui Kang, Zichen Wen, Yize Chen, 
 **Junyan Ye\***, Jun He, Weijia Li, Zhutao Lv, Yi Lin, Jinhua Yu, Haote Yang, Conghui He.  
 [[Github](https://opendatalab.github.io/skydiffusion/)]
 
-- <span class="conference-tag">Under Submission</span> [UAE: Unified Multimodal Model as Auto-Encoder](https://arxiv.org/abs/2509.09666)<br>
+- <span class="preprint-tag">Under Submission</span> [UAE: Unified Multimodal Model as Auto-Encoder](https://arxiv.org/abs/2509.09666)<br>
 Zhiyuan Yan\*, Kaiqing Lin\*, Zongjian Li\*, **Junyan Ye\***, Hui Han, Zhendong Wang, Hao Liu, Bin Lin, Hao Li, Xue Xu, Xinyan Xiao, Jingdong Wang, Haifeng Wang, Li Yuan.  
 [[Github](https://github.com/PKU-YuanGroup/UAE)]
 
