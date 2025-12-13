@@ -31,7 +31,7 @@ Zhiyuan Yan\*, Kaiqing Lin\*, Zongjian Li\*, **Junyan Ye\***, Hui Han, Zhendong 
 
 ## Multimodal Large Language Models Benchmark
 
-- <span class="conference-tag">NeurIPS 2025 D&B</span> [BLINK-Twice: You see, but do you observe? A Reasoning Benchmark on Visual Perception](https://arxiv.org/abs/2510.09361)<br>
+- <span class="conference-tag">NeurIPS 2025 DB</span> [BLINK-Twice: You see, but do you observe? A Reasoning Benchmark on Visual Perception](https://arxiv.org/abs/2510.09361)<br>
 **Junyan Ye**, Dongzhi Jiang, Jun He, Baichuan Zhou, Zilong Huang, Zhiyuan Yan, Hongsheng Li, Conghui He, Weijia Li.
 
 - <span class="conference-tag">ICLR 2025 Spotlight</span> [LOKI: A Comprehensive Synthetic Data Detection Benchmark using Large Multimodal Models](https://arxiv.org/abs/2410.09732) <a href="https://github.com/opendatalab/LOKI"><img class="github-badge" src="https://img.shields.io/github/stars/opendatalab/LOKI?style=social&label=Stars"></a><br>
