@@ -36,10 +36,10 @@ Siwei Wen\*, **Junyan Ye\***, Peilin Feng, Hengrui Kang, Zichen Wen, Yize Chen, 
 **Junyan Ye\***, Jun He, Weijia Li, Zhutao Lv, Yi Lin, Jinhua Yu, Haote Yang, Conghui He.  
 [[Github](https://opendatalab.github.io/skydiffusion/)]
 
-- <span class="conference-tag">Under Submission</span> [RealGen: Photorealistic Text-to-Image Generation via Detector-Guided Rewards]()<br>
+- <span class=".preprint-tag">Arxiv</span> [RealGen: Photorealistic Text-to-Image Generation via Detector-Guided Rewards]()<br>
 **Junyan Ye\***, Leiqi Zhu\*, Yuncheng Guo, Dongzhi Jiang, Zilong Huang, Yifan Zhang, Zhiyuan Yan, Haohuan Fu, Conghui He, Weijia Li.
 
-- <span class="conference-tag">Under Submission</span> [Echo-4o: Harnessing the Power of GPT-4o Synthetic Images for Improved Image Generation](https://arxiv.org/abs/2508.09987)<br>
+- <span class="conference-tag">Arxiv</span> [Echo-4o: Harnessing the Power of GPT-4o Synthetic Images for Improved Image Generation](https://arxiv.org/abs/2508.09987)<br>
 **Junyan Ye\***, Dongzhi Jiang\*, Zihao Wang, Leqi Zhu, Zhenghao Hu, Zilong Huang, Jun He, Zhiyuan Yan, Jinghua Yu, Hongsheng Li, Conghui He, Weijia Li.  
 [[Github](https://github.com/yejy53/Echo-4o)]
 
