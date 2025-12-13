@@ -42,7 +42,7 @@ img.github-badge { vertical-align: middle; margin-left: 5px; }
 
 # 💻 Open Source Projects
 
-- <span class="conference-tag" style="background-color: #2a9d8f">Project</span> [Awesome-Nano-Banana-images: A Curated Collection of Generative AI Visuals](https://github.com/PicoTrex/Awesome-Nano-Banana-images) <a href="https://github.com/PicoTrex/Awesome-Nano-Banana-images"><img class="github-badge" src="https://img.shields.io/github/stars/PicoTrex/Awesome-Nano-Banana-images?style=social&label=Stars%20🔥"></a><br>
+- <span class="conference-tag" style="background-color: #2a9d8f">Project</span> [Awesome-Nano-Banana-images: A Curated Collection of Generative AI Visuals](https://github.com/PicoTrex/Awesome-Nano-Banana-images) <a href="https://github.com/PicoTrex/Awesome-Nano-Banana-images"><img class="github-badge" src="https://img.shields.io/badge/Stars_🔥-18.4k-white?style=social&logo=github"></a><br>
 Zilong Huang, **Junyan Ye**, Jun He.
 
 - <span class="conference-tag" style="background-color: #2a9d8f">Project</span> [GPT-ImgEval: The first Comprehensive Benchmark for Diagnosing GPT4o in Image Generation](https://arxiv.org/abs/2504.02782) <a href="https://github.com/PicoTrex/GPT-ImgEval"><img class="github-badge" src="https://img.shields.io/github/stars/PicoTrex/GPT-ImgEval?style=social&label=Stars"></a><br>
