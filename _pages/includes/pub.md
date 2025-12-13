@@ -28,8 +28,9 @@
 
 ## Multimodal AIGC: Image Synthesis and Visual Forensics
 
-- <span class=".preprint-tag">Arxiv</span> [RealGen: Photorealistic Text-to-Image Generation via Detector-Guided Rewards]()<br>
+- <span class=".preprint-tag">Arxiv</span> [RealGen: Photorealistic Text-to-Image Generation via Detector-Guided Rewards](https://arxiv.org/abs/2512.00473)<br>
 **Junyan Ye\***, Leiqi Zhu\*, Yuncheng Guo, Dongzhi Jiang, Zilong Huang, Yifan Zhang, Zhiyuan Yan, Haohuan Fu, Conghui He, Weijia Li.
+[[Github](https://github.com/yejy53/RealGen?tab=readme-ov-file)]
 
 - <span class=".preprint-tag">Arxiv</span> [Echo-4o: Harnessing the Power of GPT-4o Synthetic Images for Improved Image Generation](https://arxiv.org/abs/2508.09987)<br>
 **Junyan Ye\***, Dongzhi Jiang\*, Zihao Wang, Leqi Zhu, Zhenghao Hu, Zilong Huang, Jun He, Zhiyuan Yan, Jinghua Yu, Hongsheng Li, Conghui He, Weijia Li.  
