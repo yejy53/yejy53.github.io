@@ -23,7 +23,6 @@ I received my B.E. degree from Sun Yat-sen University in 2024. Currently, I am a
 
 My research goal is to conduct influential scientific research in **Computer Vision** and **AI Image Generation**.
 
-<a href='https://scholar.google.com/citations?user=6IbGkd4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
 - *2025.12*: &nbsp;🔥 Released: [**RealGen: Photorealistic Text-to-Image Generation via Detector-Guided Rewards**.](https://github.com/yejy53/RealGen)
@@ -35,6 +34,15 @@ My research goal is to conduct influential scientific research in **Computer Vis
 
 {% include_relative includes/pub.md %}
 
+# 💻 Open Source Projects
+
+- <span class="conference-tag" style="background-color: #e05d44">🔥 18k+ Stars</span> [Awesome-Nano-Banana-images: A Curated Collection of Generative AI Visuals](https://github.com/PicoTrex/Awesome-Nano-Banana-images)<br>
+Zilong Huang, **Junyan Ye**, Jun He.
+
+- <span class="conference-tag" style="background-color: #2a9d8f">Project</span> [GPT-ImgEval: The first Comprehensive Benchmark for Diagnosing GPT4o in Image Generation](https://github.com/PicoTrex/GPT-ImgEval)<br>
+Zhiyuan Yan\*, **Junyan Ye\***, Weijia Li, Zilong Huang, Shenghai Yuan, Xiangyang He, Kaiqing Lin, Jun He, Conghui He, Li Yuan.  
+[[Arxiv](https://arxiv.org/abs/2504.02782)] [[Github](https://github.com/PicoTrex/GPT-ImgEval)]
+
 # 🎖 Honors and Awards
 - *2024*, **National Scholarship** (Top 0.2%)
 - *2024*, **Guo Xie Birong Scholarship** (Top 0.5%)
@@ -45,5 +53,3 @@ My research goal is to conduct influential scientific research in **Computer Vis
 - *2024.09 - Present*, Master Student, Sun Yat-sen University (SYSU).
 - *2020.09 - 2024.06*, B.E. in Computer Science, Sun Yat-sen University (SYSU).
 
-# 💻 Internships
-- *2024.xx - Present*, Research Intern, **Shanghai AI Lab**. Mentor: Conghui He.
