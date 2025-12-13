@@ -6,6 +6,8 @@
 img.github-badge { vertical-align: middle; margin-left: 5px; }
 </style>
 
+# 📝 Publications
+
 ## Multimodal AIGC: Image Synthesis and Visual Forensics
 
 - <span class="preprint-tag">Arxiv</span> [RealGen: Photorealistic Text-to-Image Generation via Detector-Guided Rewards](https://arxiv.org/abs/2512.00473) <a href="https://github.com/yejy53/RealGen"><img class="github-badge" src="https://img.shields.io/github/stars/yejy53/RealGen?style=social&label=Stars"></a><br>
