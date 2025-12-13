@@ -28,6 +28,13 @@
 
 ## Multimodal AIGC: Image Synthesis and Visual Forensics
 
+- <span class=".preprint-tag">Arxiv</span> [RealGen: Photorealistic Text-to-Image Generation via Detector-Guided Rewards]()<br>
+**Junyan Ye\***, Leiqi Zhu\*, Yuncheng Guo, Dongzhi Jiang, Zilong Huang, Yifan Zhang, Zhiyuan Yan, Haohuan Fu, Conghui He, Weijia Li.
+
+- <span class=".preprint-tag">Arxiv</span> [Echo-4o: Harnessing the Power of GPT-4o Synthetic Images for Improved Image Generation](https://arxiv.org/abs/2508.09987)<br>
+**Junyan Ye\***, Dongzhi Jiang\*, Zihao Wang, Leqi Zhu, Zhenghao Hu, Zilong Huang, Jun He, Zhiyuan Yan, Jinghua Yu, Hongsheng Li, Conghui He, Weijia Li.  
+[[Github](https://github.com/yejy53/Echo-4o)]
+
 - <span class="conference-tag">NeurIPS 2025</span> [Spot the Fake: Large Multimodal Model-Based Synthetic Image Detection with Artifact Explanation](https://arxiv.org/abs/2503.14905)<br>
 Siwei Wen\*, **Junyan Ye\***, Peilin Feng, Hengrui Kang, Zichen Wen, Yize Chen, Jiang Wu, Wenjun Wu, Conghui He, Weijia Li.  
 [[Github](https://github.com/opendatalab/FakeVLM)]
@@ -36,14 +43,7 @@ Siwei Wen\*, **Junyan Ye\***, Peilin Feng, Hengrui Kang, Zichen Wen, Yize Chen, 
 **Junyan Ye\***, Jun He, Weijia Li, Zhutao Lv, Yi Lin, Jinhua Yu, Haote Yang, Conghui He.  
 [[Github](https://opendatalab.github.io/skydiffusion/)]
 
-- <span class=".preprint-tag">Arxiv</span> [RealGen: Photorealistic Text-to-Image Generation via Detector-Guided Rewards]()<br>
-**Junyan Ye\***, Leiqi Zhu\*, Yuncheng Guo, Dongzhi Jiang, Zilong Huang, Yifan Zhang, Zhiyuan Yan, Haohuan Fu, Conghui He, Weijia Li.
-
-- <span class=".preprint-tag">Arxiv</span> [Echo-4o: Harnessing the Power of GPT-4o Synthetic Images for Improved Image Generation](https://arxiv.org/abs/2508.09987)<br>
-**Junyan Ye\***, Dongzhi Jiang\*, Zihao Wang, Leqi Zhu, Zhenghao Hu, Zilong Huang, Jun He, Zhiyuan Yan, Jinghua Yu, Hongsheng Li, Conghui He, Weijia Li.  
-[[Github](https://github.com/yejy53/Echo-4o)]
-
-- <span class="conference-tag">Under Submission</span> [Unified Multimodal Model as Auto-Encoder](https://arxiv.org/abs/2509.09666)<br>
+- <span class="conference-tag">Under Submission</span> [UAE: Unified Multimodal Model as Auto-Encoder](https://arxiv.org/abs/2509.09666)<br>
 Zhiyuan Yan\*, Kaiqing Lin\*, Zongjian Li\*, **Junyan Ye\***, Hui Han, Zhendong Wang, Hao Liu, Bin Lin, Hao Li, Xue Xu, Xinyan Xiao, Jingdong Wang, Haifeng Wang, Li Yuan.  
 [[Github](https://github.com/PKU-YuanGroup/UAE)]
 
