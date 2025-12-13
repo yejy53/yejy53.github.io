@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Greetings! I'm currently a Master student at **Sun Yat-sen University (SYSU)**, advised by Prof. [Weijia Li](https://liweijia.github.io/). 
+Greetings! I'm currently a Master student at **Sun Yat-sen University (SYSU)**, advised by Prof. [Weijia Li](https://liweijia.github.io/). I received my B.E. degree from Sun Yat-sen University in 2024.
 
-I received my B.E. degree from Sun Yat-sen University in 2024. Currently, I am also serving as a research intern at **Shanghai AI Lab**, mentored by [Conghui He](https://lke.cloud.tencent.com/lke#/link-info/redirect?target=https://conghui.github.io/).
+Currently, I am also serving as a research intern at **Shanghai AI Lab**, mentored by [Conghui He](https://lke.cloud.tencent.com/lke#/link-info/redirect?target=https://conghui.github.io/). Here I completed a lot of work related to synthetic data detection and optimization.
 
-My research goal is to conduct influential scientific research in **Computer Vision** and **AI Image Generation**.
+My current research focuses on image generation and multimodal large models. My recent work involves combining AIGC detection to achieve more realistic image generation.
 
 
 # 🔥 News
