@@ -30,7 +30,7 @@ My current research focuses on image generation and multimodal large models. My 
 - *2025.06*: &nbsp;🎉 Two papers accepted by **NIPS 2025**: [FakeVLM](https://github.com/opendatalab/FakeVLM)**(6/5/5/4)** and [BLINK-Twice](https://arxiv.org/abs/2510.09361) **(6/5/5/4)**!
 - *2025.06*: &nbsp;🎉 Three papers accepted by **ICCV 2025**: [Skydiffuion](https://opendatalab.github.io/skydiffusion/), [Where am I](https://yejy53.github.io/CVG-Text/) and [LEGION](https://opendatalab.github.io/LEGION/)!
 - *2025.02*: &nbsp;🎉 [LOKI](https://opendatalab.github.io/LOKI/) was accepted by **ICLR 2025** as a **Spotlight (8/8/8/8)**!
-- *2024.07*: &nbsp;📜 [EP-BEV](https://github.com/yejy53/EP-BEV) was accepted by **ECCV 2024**!  [SG-BEV](https://github.com/yejy53/SG-BEV) was accepted by **CVPR 2024** and selected as a **Highlight Poster**!
+- *2024.07*: &nbsp;📜 [EP-BEV](https://github.com/yejy53/EP-BEV) was accepted by **ECCV 2024** and [SG-BEV](https://github.com/yejy53/SG-BEV) was accepted by **CVPR 2024** as a **Highlight**!
 
 {% include_relative includes/pub.md %}
 
