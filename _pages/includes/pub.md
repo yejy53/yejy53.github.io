@@ -26,7 +26,7 @@ Siwei Wen\*, **Junyan Ye\***, Peilin Feng, Hengrui Kang, Zichen Wen, Yize Chen, 
 **Junyan Ye\***, Jun He, Weijia Li, Zhutao Lv, Yi Lin, Jinhua Yu, Haote Yang, Conghui He.
 
 
-- <span class="preprint-tag">Arxiv</span> [UAE: Unified Multimodal Model as Auto-Encoder](https://arxiv.org/abs/2509.09666) <a href="https://github.com/PKU-YuanGroup/UAE"><img class="github-badge" src="https://img.shields.io/github/stars/PKU-YuanGroup/UAE?style=social&label=Stars"></a><br>
+- <span class="conference-tag">CVPR 2026</span> [UAE: Unified Multimodal Model as Auto-Encoder](https://arxiv.org/abs/2509.09666) <a href="https://github.com/PKU-YuanGroup/UAE"><img class="github-badge" src="https://img.shields.io/github/stars/PKU-YuanGroup/UAE?style=social&label=Stars"></a><br>
 Zhiyuan Yan\*, Kaiqing Lin\*, Zongjian Li\*, **Junyan Ye\***, Hui Han, Zhendong Wang, Hao Liu, Bin Lin, Hao Li, Xue Xu, Xinyan Xiao, Jingdong Wang, Haifeng Wang, Li Yuan.
 
 
