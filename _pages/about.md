@@ -19,7 +19,7 @@ redirect_from:
 
 Greetings! I'm currently a Master student at **Sun Yat-sen University (SYSU)**, advised by Prof. [Weijia Li](https://liweijia.github.io/). I received my B.E. degree from Sun Yat-sen University in 2024.
 
-Currently, I am also serving as a research intern at **Shanghai AI Lab**, mentored by [Conghui He](https://conghui.github.io/). Here I completed a lot of work related to synthetic data detection and optimization.
+I am currently a **Tencent Qingyun Program** research intern. My previous experience includes a research internship at **Shanghai AI Lab** mentored by [Conghui He](https://conghui.github.io/), where I contributed to synthetic data detection and optimization.
 
 My current research focuses on image generation and multimodal large models. My recent work involves combining AIGC detection to achieve more realistic image generation.
 
