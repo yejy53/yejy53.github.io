@@ -25,7 +25,7 @@ My current research focuses on image generation and multimodal large models. My 
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉 Two papers accepted by **ICLR 2026**: [EarthAgent](https://github.com/opendatalab/Earth-Agent) and [UrbanFeel](https://arxiv.org/abs/2509.22228) !
+- *2026.01*: &nbsp;🎉 UAE accepted by **CVPR 2026**: [UAE](https://github.com/PKU-YuanGroup/UAE)!
 - *2025.12*: &nbsp;🔥 Released: [**RealGen: Photorealistic Text-to-Image Generation via Detector-Guided Rewards**.](https://github.com/yejy53/RealGen)
 - *2025.08*: &nbsp;🔥 Released: [**Echo-4o: Harnessing the Power of GPT-4o Synthetic Images for Improved Image Generation**](https://github.com/yejy53/Echo-4o).
 - *2025.09*: &nbsp;🎉 Two papers accepted by **NIPS 2025**: [FakeVLM](https://github.com/opendatalab/FakeVLM) and [BLINK-Twice](https://arxiv.org/abs/2510.09361) !
