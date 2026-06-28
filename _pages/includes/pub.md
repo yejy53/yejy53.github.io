@@ -8,9 +8,19 @@ img.github-badge { vertical-align: middle; margin-left: 5px; }
 
 # 📝 Publications
 
+## Agentic Multi-modal Generation
+
+- <span class="preprint-tag">Arxiv</span> [GenClaw: Code-Driven Agentic Image Generation](https://arxiv.org/abs/2605.30248) <a href="https://github.com/yejy53/GenClaw"><img class="github-badge" src="https://img.shields.io/github/stars/yejy53/GenClaw?style=social&label=Stars"></a><br>
+**Junyan Ye**, et al.
+
+
+- <span class="preprint-tag">Arxiv</span> [Mind-Brush: Integrating Agentic Cognitive Search and Reasoning into Image Generation](https://arxiv.org/abs/2602.01756) <a href="https://github.com/PicoTrex/Mind-Brush"><img class="github-badge" src="https://img.shields.io/github/stars/PicoTrex/Mind-Brush?style=social&label=Stars"></a><br>
+Jun He\*, **Junyan Ye\***, et al.
+
+
 ## Multimodal AIGC: Image Synthesis and Visual Forensics
 
-- <span class="preprint-tag">Arxiv</span> [RealGen: Photorealistic Text-to-Image Generation via Detector-Guided Rewards](https://arxiv.org/abs/2512.00473) <a href="https://github.com/yejy53/RealGen"><img class="github-badge" src="https://img.shields.io/github/stars/yejy53/RealGen?style=social&label=Stars"></a><br>
+- <span class="conference-tag">ECCV 2026</span> [RealGen: Photorealistic Text-to-Image Generation via Detector-Guided Rewards](https://arxiv.org/abs/2512.00473) <a href="https://github.com/yejy53/RealGen"><img class="github-badge" src="https://img.shields.io/github/stars/yejy53/RealGen?style=social&label=Stars"></a><br>
 **Junyan Ye\***, Leiqi Zhu\*, Yuncheng Guo, Dongzhi Jiang, Zilong Huang, Yifan Zhang, Zhiyuan Yan, Haohuan Fu, Conghui He, Weijia Li.
 
 
