@@ -14,7 +14,7 @@ img.github-badge { vertical-align: middle; margin-left: 5px; }
 **Junyan Ye**, et al.
 
 
-- <span class="preprint-tag">Arxiv</span> [Mind-Brush: Integrating Agentic Cognitive Search and Reasoning into Image Generation](https://arxiv.org/abs/2602.01756) <a href="https://github.com/PicoTrex/Mind-Brush"><img class="github-badge" src="https://img.shields.io/github/stars/PicoTrex/Mind-Brush?style=social&label=Stars"></a><br>
+- <span class="conference-tag">SIGGRAPH Asia</span> [Mind-Brush: Integrating Agentic Cognitive Search and Reasoning into Image Generation](https://arxiv.org/abs/2602.01756) <a href="https://github.com/PicoTrex/Mind-Brush"><img class="github-badge" src="https://img.shields.io/github/stars/PicoTrex/Mind-Brush?style=social&label=Stars"></a><br>
 Jun He\*, **Junyan Ye\***, et al.
 
 
