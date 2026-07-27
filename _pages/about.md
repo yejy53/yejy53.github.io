@@ -26,7 +26,7 @@ My current research focuses on image generation and multimodal large models. My 
 
 # 🔥 News
 - *2026.05*: &nbsp;🔥 Released: [**GenClaw: Code-Driven Agentic Image Generation**](https://arxiv.org/abs/2605.30248).
-- *2025.12*: &nbsp;🎉 [**RealGen: Photorealistic Text-to-Image Generation via Detector-Guided Rewards**](https://github.com/yejy53/RealGen) was accepted by **ECCV 2026**!
+- *2026.05*: &nbsp;🎉 [**RealGen: Photorealistic Text-to-Image Generation via Detector-Guided Rewards**](https://github.com/yejy53/RealGen) was accepted by **ECCV 2026 Oral**!
 - *2025.08*: &nbsp;🔥 Released: [**Echo-4o: Harnessing the Power of GPT-4o Synthetic Images for Improved Image Generation**](https://github.com/yejy53/Echo-4o).
 - *2025.09*: &nbsp;🎉 Two papers accepted by **NIPS 2025**: [FakeVLM](https://github.com/opendatalab/FakeVLM) and [BLINK-Twice](https://arxiv.org/abs/2510.09361) !
 - *2025.06*: &nbsp;🎉 Three papers accepted by **ICCV 2025**: [Skydiffuion](https://opendatalab.github.io/skydiffusion/), [Where am I](https://yejy53.github.io/CVG-Text/) and [LEGION](https://opendatalab.github.io/LEGION/)!
