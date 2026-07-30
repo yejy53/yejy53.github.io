@@ -20,7 +20,7 @@ Jun He\*, **Junyan Ye\***, et al.
 
 ## Multimodal AIGC: Image Synthesis and Visual Forensics
 
-- <span class="conference-tag">ECCV 2026</span> [RealGen: Photorealistic Text-to-Image Generation via Detector-Guided Rewards](https://arxiv.org/abs/2512.00473) <a href="https://github.com/yejy53/RealGen"><img class="github-badge" src="https://img.shields.io/github/stars/yejy53/RealGen?style=social&label=Stars"></a><br>
+- <span class="conference-tag">ECCV 2026 Oral</span> [RealGen: Photorealistic Text-to-Image Generation via Detector-Guided Rewards](https://arxiv.org/abs/2512.00473) <a href="https://github.com/yejy53/RealGen"><img class="github-badge" src="https://img.shields.io/github/stars/yejy53/RealGen?style=social&label=Stars"></a><br>
 **Junyan Ye\***, Leiqi Zhu\*, Yuncheng Guo, Dongzhi Jiang, Zilong Huang, Yifan Zhang, Zhiyuan Yan, Haohuan Fu, Conghui He, Weijia Li.
 
 
