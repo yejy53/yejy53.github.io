@@ -20,6 +20,9 @@ Jun He\*, **Junyan Ye\***, et al.
 
 ## Multimodal AIGC: Image Synthesis and Visual Forensics
 
+- <span class="conference-tag">Preprint 2026</span> [Editable Visual Design](https://arxiv.org/abs/2609.04034) <a href="https://github.com/yejy53/Editable-Design"><img class="github-badge" src="https://img.shields.io/github/stars/yejy53/Editable-Design?style=social&label=Stars"></a><br>
+**Junyan Ye\***, Wei Liu\*, Dongzhi Jiang, Zichen Wen, HaoDong Li, Zhutao Lv, Jiaxin Lin, Jinhua Yu, Jun He, Zilong Huang, Rui Chen, Weijia Li.
+
 - <span class="conference-tag">ECCV 2026 Oral</span> [RealGen: Photorealistic Text-to-Image Generation via Detector-Guided Rewards](https://arxiv.org/abs/2512.00473) <a href="https://github.com/yejy53/RealGen"><img class="github-badge" src="https://img.shields.io/github/stars/yejy53/RealGen?style=social&label=Stars"></a><br>
 **Junyan Ye\***, Leiqi Zhu\*, Yuncheng Guo, Dongzhi Jiang, Zilong Huang, Yifan Zhang, Zhiyuan Yan, Haohuan Fu, Conghui He, Weijia Li.
 
