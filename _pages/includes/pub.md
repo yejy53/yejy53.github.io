@@ -10,7 +10,7 @@ img.github-badge { vertical-align: middle; margin-left: 5px; }
 
 ## Agentic Multi-modal Generation
 
-- <span class="conference-tag">Preprint 2026</span> [Editable Visual Design](https://arxiv.org/abs/2609.04034) <a href="https://github.com/yejy53/Editable-Design"><img class="github-badge" src="https://img.shields.io/github/stars/yejy53/Editable-Design?style=social&label=Stars"></a><br>
+- <span class="preprint-tag">Arxiv</span> [Editable Visual Design](https://arxiv.org/abs/2609.04034) <a href="https://github.com/yejy53/Editable-Design"><img class="github-badge" src="https://img.shields.io/github/stars/yejy53/Editable-Design?style=social&label=Stars"></a><br>
 **Junyan Ye\***, Wei Liu\*, Dongzhi Jiang, Zichen Wen, HaoDong Li, Zhutao Lv, Jiaxin Lin, Jinhua Yu, Jun He, Zilong Huang, Rui Chen, Weijia Li.
 
 
