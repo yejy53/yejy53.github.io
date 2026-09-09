@@ -25,6 +25,7 @@ My current research focuses on image generation and multimodal large models. My 
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🔥 Released: [**Editable Visual Design**](https://arxiv.org/pdf/2609.04034).
 - *2026.05*: &nbsp;🔥 Released: [**GenClaw: Code-Driven Agentic Image Generation**](https://arxiv.org/abs/2605.30248).
 - *2026.05*: &nbsp;🎉 [**RealGen: Photorealistic Text-to-Image Generation via Detector-Guided Rewards**](https://github.com/yejy53/RealGen) was accepted by **ECCV 2026 Oral**!
 - *2025.08*: &nbsp;🔥 Released: [**Echo-4o: Harnessing the Power of GPT-4o Synthetic Images for Improved Image Generation**](https://github.com/yejy53/Echo-4o).
